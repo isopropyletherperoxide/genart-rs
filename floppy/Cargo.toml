@@ -1,0 +1,11 @@
+[package]
+name = "floppy"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+color_processing = "0.6.2"
+colorsys = "0.6.7"
+nannou = "0.18.1"
